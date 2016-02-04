@@ -1,0 +1,28 @@
+name: 'Laurel Strongosky '
+favicon: null
+layout_spectrum: 0.8669023809488863
+typography_spectrum: 0.8932484071701765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3112041726708412
+  lightness: 0.8615352262277156
+  saturation: 0.7603145947214216
+  rhythmicContrast: 0.1963100410066545
+purpose: []
